@@ -22,7 +22,7 @@ Expected Output:
 Your task is to write a Python script to update the inventory based on the items purchased by the customer. If an item is purchased, decrement the stock count in the inventory. If the stock count of an item goes below 0, update it to 0 as you cannot have negative stock. If a purchased item is not found in the inventory, print a message indicating the item is not in the inventory.
 
 Here are the inventory and purchased_items you'll start with:
-inventory = {'Apple': 10, 'Banana': 5, 'Orange': 7}
+inventory = {'Apple': 10, 'Banana': 1, 'Orange': 7}
 purchased_items = ['Apple', 'Banana', 'Apple', 'Orange', 'Banana']
 
 Expected Output:
