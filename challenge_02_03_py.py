@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1BCAWXRRXNM50QG9VqNR_XbsZCx7DerIP
 """
 
-count = 1
-mutiplier = 1
 spaces = " "
 print("     1    2    3    4    5    6    7    8    9    10")
 for i in range(1,11):
